@@ -19,6 +19,18 @@ def euclidean_division(x, y):
 euclidean_division(10, 3) # 3 remainder 1
 euclidean_division(11, 3) #3 remainder 2
 
-euclidean_division(10, -3)
+
+euclidean_division = divmod(5, 2)
+print(euclidean_division)
+
+
+raw_time = 8594
+minutes, seconds = divmod(raw_time,60)
+hours, minutes = divmod(minutes,60)
+
+print(f"{raw_time}s is {hours}h {minutes}m {seconds}s")
+
+
+
 
     
