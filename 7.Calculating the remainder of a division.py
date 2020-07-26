@@ -30,7 +30,9 @@ hours, minutes = divmod(minutes,60)
 
 print(f"{raw_time}s is {hours}h {minutes}m {seconds}s")
 
-
+row_number = 235
+result = row_number % 2
+print(result)
 
 
     
