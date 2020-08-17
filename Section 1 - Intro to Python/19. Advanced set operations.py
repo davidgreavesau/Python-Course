@@ -17,4 +17,3 @@ all_friends = art_friends.union(science_friends)
 print("All Friends: " + str(all_friends))
 
 new_friend = input("What is a name of a friend: ")
-user_friends

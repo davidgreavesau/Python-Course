@@ -1,3 +1,7 @@
+# https://blog.tecladocode.com/python-30-day-4-lists-tuples/
+# https://blog.tecladocode.com/python-extending-lists/
+
+
 friends = [
     ["Rolf", 23],
     ["Bob", 55],

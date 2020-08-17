@@ -1,3 +1,6 @@
+# https://blog.tecladocode.com/python-set-operators/
+# https://blog.tecladocode.com/python-symmetric-difference/
+
 art_friends = {"Rolf", "Anne"}
 science_friends = {"Jenn", "Charlie"}
 
