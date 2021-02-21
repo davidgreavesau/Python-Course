@@ -8,7 +8,7 @@ def average_grade(student):
     return sum(student['grades']) / len(student['grades'])
 
 class Student:
-    #dunder function
+    #dunder method
     def __init__(self, new_name, new_grades):
         self.name = new_name
         self.grades = new_grades
