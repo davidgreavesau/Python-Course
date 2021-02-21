@@ -15,6 +15,9 @@ class WorkingStudent(Student):
         super().__init__(name, school)
         self.salary = salary
     
+    # change a simple no arguement method into a property.
+    # do not use this if you are performing an action
+    @property
     def weekly_salary(self):
         return self.salary * 37.5
 
@@ -25,4 +28,4 @@ rolf.marks.append(57)
 rolf.marks.append(99)
 print(rolf.average())
 
-print(rolf.weekly_salary())
+print(rolf.weekly_salary)
