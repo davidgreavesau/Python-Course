@@ -21,6 +21,6 @@ def interact():
 
             if user_input != 'y':   # quit if the user didn't input `y`
                 print('Goodbye.')
-                break   # break the while loop to quit
+                break   # break the while loop to quits
 
 interact()
