@@ -18,7 +18,7 @@ print(f"The number is {x:.4f}")
 
 y = 1000000000000000
 print(f"{y:,}")
-print(f"{y:_}")5
+print(f"{y:_}")
 
 questions = 30
 correct_answers = 23
