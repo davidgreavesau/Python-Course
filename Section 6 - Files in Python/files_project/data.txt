@@ -1,0 +1,1 @@
+python -u "d:\Coding\Python-Course\Section 6 - Files in Python\files_project\friends.py"
